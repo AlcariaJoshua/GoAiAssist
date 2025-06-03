@@ -1,0 +1,54 @@
+header .content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header {
+    padding: 2rem 0rem;
+    position: sticky;
+    top: 0rem;
+    z-index: 9999999;
+    background-color: #ffff;
+}
+
+
+.hamburger-btn {
+    display: none;
+}
+
+ul li a {
+    color: #3D0757;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    gap: 3rem;
+}
+
+nav ul {
+    display: flex;
+    align-items: center;
+    gap: 3rem;
+}
+
+
+form.outbound_form_embed {
+    display: flex;
+    gap: 1rem;
+}
+
+.callfluent_paper form button {
+    padding: 18px 50px;
+    border-radius: 30px;
+    text-transform: capitalize;
+    font-size: 1rem;
+    font-family: 'Open sans';
+    box-shadow: inset 0px 0px 5px 0 #FDFDFD36;
+    color: rgb(255, 255, 255);
+    background-color: #ad22ef;
+    width: 100%;
+    cursor: pointer;
+    border: none;
+}
