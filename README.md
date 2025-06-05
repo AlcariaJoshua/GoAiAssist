@@ -1,6 +1,6 @@
 # GoAiAssist
 
-This is a simple project built with [your tech stack, e.g., HTML, CSS, JavaScript].
+This is a simple project built with [your tech stack, e.g., HTML, CSS, JavaScript and wordpress].
 
 ## Features
 - Easy to use
