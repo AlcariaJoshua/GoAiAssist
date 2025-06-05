@@ -1,4 +1,4 @@
-# My Project
+# GoAiAssist
 
 This is a simple project built with [your tech stack, e.g., HTML, CSS, JavaScript].
 
